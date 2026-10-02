@@ -1,0 +1,13 @@
+cache/
+out/
+__pycache__/
+*.wav
+*.npy
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+.venv/
+venv/
+.DS_Store

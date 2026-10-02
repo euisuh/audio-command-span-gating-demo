@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-02",
+  "engine": "web.run",
+  "ranking": "First three returned hits, not independent origins",
+  "queries": [
+    {
+      "date": "2026-10-02",
+      "query": "AudioSeal 2401.17264 localized audio watermark speech",
+      "top_3": [
+        {
+          "title": "Proactive Detection of Voice Cloning with Localized Watermarking",
+          "url": "https://arxiv.org/abs/2401.17264"
+        },
+        {
+          "title": "Paper page - Proactive Detection of Voice Cloning with Localized Watermarking",
+          "url": "https://huggingface.co/papers/2401.17264"
+        },
+        {
+          "title": "cstr/audioseal-GGUF · Hugging Face",
+          "url": "https://huggingface.co/cstr/audioseal-GGUF"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "MerkleSpeech 2602.10166 chunk provenance",
+      "top_3": [
+        {
+          "title": "MerkleSpeech: Public-Key Verifiable, Chunk-Localised Speech Provenance via Perceptual Fingerprints and Merkle Commitments",
+          "url": "https://arxiv.org/abs/2602.10166"
+        },
+        {
+          "title": "(PDF) MerkleSpeech: Public-Key Verifiable, Chunk-Localised Speech Provenance via Perceptual Fingerprints and Merkle Commitments",
+          "url": "https://www.researchgate.net/publication/400704704_MerkleSpeech_Public-Key_Verifiable_Chunk-Localised_Speech_Provenance_via_Perceptual_Fingerprints_and_Merkle_Commitments"
+        },
+        {
+          "title": "MerkleSpeech: Public-Key Verifiable, Chunk-Locali… - arXiv",
+          "url": "https://arxiv-troller.com/paper/3087101/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "SpeechVerifier 2505.23821 tampering watermark",
+      "top_3": [
+        {
+          "title": "SpeechVerifier: Robust Acoustic Fingerprint against Tampering Attacks via Watermarking",
+          "url": "https://arxiv.org/abs/2505.23821"
+        },
+        {
+          "title": "SpeechVerifier: Robust Acoustic Fingerprint against Tampering Attacks via Watermarking | alphaXiv",
+          "url": "https://www.alphaxiv.org/abs/2505.23821"
+        },
+        {
+          "title": "SpeechVerifier: Robust Acoustic Fingerprint against Tampering Attacks via Watermarking | alphaXiv",
+          "url": "https://www.alphaxiv.org/replicate/2505.23821"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "voice agent security audio prompt injection watermark defense",
+      "top_3": [
+        {
+          "title": "Understanding prompt injections | OpenAI",
+          "url": "https://openai.com/safety/prompt-injections/"
+        },
+        {
+          "title": "Agent Safety | Microsoft Learn",
+          "url": "https://learn.microsoft.com/en-us/agent-framework/agents/safety"
+        },
+        {
+          "title": "Prompt injection protection in Microsoft Defender for Office 365 - Microsoft Defender for Office 365 | Microsoft Learn",
+          "url": "https://learn.microsoft.com/en-us/defender-office-365/step-by-step-guides/prompt-injection-protection-defender-for-office-365"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "voice assistant command authentication audio watermark word timestamps",
+      "top_3": [
+        {
+          "title": "How To Secure Your Voice Assistant and Protect Your Privacy | Consumer Advice",
+          "url": "https://consumer.ftc.gov/articles/how-secure-your-voice-assistant-protect-your-privacy"
+        },
+        {
+          "title": "GitHub - RedHorseMane/obravera_audio_auth: Advanced audio authentication system that embeds cryptographically signed credentials into audio files with multi-layer verification · GitHub",
+          "url": "https://github.com/RedHorseMane/obravera_audio_auth"
+        },
+        {
+          "title": "Spying through Your Voice Assistants: Realistic Voice Command Fingerprinting | USENIX",
+          "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/ahmed-dilawer"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "partial spoof speech localization ADD challenge",
+      "top_3": [
+        {
+          "title": "PartialSpoof/README.md at main · nii-yamagishilab/PartialSpoof · GitHub",
+          "url": "https://github.com/nii-yamagishilab/PartialSpoof/blob/main/README.md"
+        },
+        {
+          "title": "GitHub - nii-yamagishilab/PartialSpoof · GitHub",
+          "url": "https://github.com/nii-yamagishilab/partialspoof"
+        },
+        {
+          "title": "Robust Localization of Partially Fake Speech: Metrics and Out-of-Domain Evaluation",
+          "url": "https://arxiv.org/abs/2507.03468"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "audio watermark command span gating voice agent",
+      "top_3": [
+        {
+          "title": "CrispASR/docs/tts.md at main · CrispStrobe/CrispASR · GitHub",
+          "url": "https://github.com/CrispStrobe/CrispASR/blob/main/docs/tts.md"
+        },
+        {
+          "title": "GitHub - veritone/vocalid-audiowmark: Audio Watermarking · GitHub",
+          "url": "https://github.com/veritone/vocalid-audiowmark"
+        },
+        {
+          "title": "cli/docs/superpowers/specs/2026-06-02-voice-agent-design.md at main · AssemblyAI/cli · GitHub",
+          "url": "https://github.com/AssemblyAI/cli/blob/main/docs/superpowers/specs/2026-06-02-voice-agent-design.md"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "speech provenance signed original chunks Merkle security",
+      "top_3": [
+        {
+          "title": "MerkleSpeech: Public-Key Verifiable, Chunk-Localised Speech Provenance via Perceptual Fingerprints and Merkle Commitments",
+          "url": "https://arxiv.org/abs/2602.10166"
+        },
+        {
+          "title": "Tatsunori Ono1",
+          "url": "https://d197for5662m48.cloudfront.net/documents/publicationstatus/307493/preprint_pdf/8e855f9bf7be7458aa784fe8cf520ab4.pdf"
+        },
+        {
+          "title": "GitHub - MoongladeAI/provenance: Local-first cryptographic provenance for Markdown and agentic AI memory — Ed25519, RFC 3161, RFC 9162 Merkle trees · GitHub",
+          "url": "https://github.com/MoongladeAI/provenance"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "Whisper tiny word timestamps MIT license",
+      "top_3": [
+        {
+          "title": "README.md · openai/whisper-tiny at main",
+          "url": "https://huggingface.co/openai/whisper-tiny/blame/main/README.md"
+        },
+        {
+          "title": "README",
+          "url": "https://mirrors.huaweicloud.com/cran/web/packages/whisper/readme/README.html"
+        },
+        {
+          "title": "openai/whisper-tiny · Hugging Face",
+          "url": "https://huggingface.co/openai/whisper-tiny?hardware=apple-macbook-neo"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "faster-whisper tiny CPU int8 license",
+      "top_3": [
+        {
+          "title": "rhasspy/faster-whisper-tiny-int8 at main",
+          "url": "https://huggingface.co/rhasspy/faster-whisper-tiny-int8/tree/main"
+        },
+        {
+          "title": "README.md · rhasspy/faster-whisper-tiny-int8 at main",
+          "url": "https://huggingface.co/rhasspy/faster-whisper-tiny-int8/blob/main/README.md"
+        },
+        {
+          "title": "README.md · rhasspy/faster-whisper-tiny-int8 at main",
+          "url": "https://huggingface.co/rhasspy/faster-whisper-tiny-int8/blame/main/README.md"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "AudioSeal word level authorization defense speech commands",
+      "top_3": [
+        {
+          "title": "GitHub - facebookresearch/audioseal: Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector · GitHub",
+          "url": "https://github.com/facebookresearch/audioseal"
+        },
+        {
+          "title": "GitHub - PixelogicMedia/pxl-audioseal: Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector · GitHub",
+          "url": "https://github.com/PixelogicMedia/pxl-audioseal"
+        },
+        {
+          "title": "Defending Unauthorized Voice Cloning with Watermark-Aware Codecs — Lacuna",
+          "url": "https://lacuna.tiptreesystems.com/work/defending-unauthorized-voice-cloning-with-watermark-aware-codecs/wrk_003b439b3672aa035d522796c3c466c3"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "query": "voice assistant bystander command injection defense",
+      "top_3": [
+        {
+          "title": "GitHub - Meta-Guardian/MetaGuardian: MetaGuardian is a passive voice assistant protection system based on 3D-printed acoustic metamaterials. It is designed to effectively defend against inaudible ultrasonic attacks, adversarial audio commands, and laser injection attacks—all without requiring any modification to the target device. · GitHub",
+          "url": "https://github.com/Meta-Guardian/MetaGuardian"
+        },
+        {
+          "title": "BarrierBypass: Out-of-Sight Clean Voice Command Injection Attacks through Physical Barriers",
+          "url": "https://www.winlab.rutgers.edu/~yychen/daisylab/papers/Out-of-Sight%20Clean%20Voice%20Command%20Injection%20Attacks%20through%20Physical%20Barriers.pdf"
+        },
+        {
+          "title": "SUAD: Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants",
+          "url": "https://arxiv.org/abs/2508.02116"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Novelty read (original text)
+
+Verdict: **PARTLY OCCUPIED**. Global novelty **UNVERIFIED**. Twelve dated searches and their first three returned hits are in [search-log.json](search-log.json); mirrored abstracts count as one origin.
+
+[AudioSeal](https://arxiv.org/abs/2401.17264) already provides sample-local watermark detection. Its [official implementation](https://github.com/facebookresearch/audioseal) also exposes a 16-bit message. Neither establishes authorization: this pilot separately enrolls one issuer and assumes the attacker cannot use its embedder. Public AudioSeal marks do not supply cryptographic speaker authentication.
+
+[MerkleSpeech v1, sections 3 and 5.4](https://arxiv.org/html/2602.10166v1) already specifies signed chunk commitments and splice-aware provenance. The [abstract record](https://arxiv.org/abs/2602.10166) was checked too; v2 HTML was unavailable. Our exact-byte signed packet baseline is deliberately simpler and does not reproduce its perceptual fingerprints or Merkle repository.
+
+[SpeechVerifier, sections 3 to 5](https://arxiv.org/html/2505.23821v2) already tests speech tampering, including splicing, with embedded fingerprints. [PartialSpoof](https://github.com/nii-yamagishilab/PartialSpoof) already evaluates utterance and segment detection. [Luong et al.](https://arxiv.org/abs/2507.03468) explicitly evaluate threshold-dependent partial-fake localization and out-of-domain behavior. Segment authentication and fine-grained detection are occupied contributions.
+
+Voice-command injection is also established: [Roy et al.](https://www.usenix.org/conference/nsdi18/presentation/roy) examine injected commands and defense. Searches found no verified identical experiment joining ASR word timestamps to AudioSeal localization, measuring downstream unauthorized sandbox actions against both utterance gating and signed originals. This is a bounded search observation, not proof of absence. An internal scouting card (not included here) limited the contribution to that conversion boundary.
+
+What remains potentially new: a frozen paired evaluation of whether command evidence extends outside admitted acoustic spans, including the utility cost of conservative word admission and a strong transport-backed baseline. Honest paper claim: a CPU synthetic prototype comparison under explicit enrollment and fixed splices, not a new watermark, cryptographic authentication scheme, general voice-agent exploit, or deployed defense. If signed chunks dominate, report that failure and stop the watermark-defense contribution. Real speakers, acoustic capture, richer parsers, adaptive attackers, and deployment security remain outside this pilot.
