@@ -124,3 +124,8 @@ The summary also prints `"verdict": "REVISE"` for a reduced run; the GO/KILL rul
 ## Known caveat in the setup
 
 espeak-ng, used by Kokoro for phonemes, crashed here when the venv sat under a very long path (194 characters; 159 worked). `runtime.py` works around it by running from a short copy under `/tmp` when the path is long.
+
+## CI
+
+GitHub Actions runs a syntax/undefined-name lint, byte-compilation and shellcheck on `fetch_kokoro.sh`. It does not install the pinned requirements or run `pilot.py --selfcheck`, because those import torch, AudioSeal and Kokoro.
+
